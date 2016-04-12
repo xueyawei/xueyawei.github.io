@@ -1,0 +1,21 @@
+
+#container{
+    width:100%;
+}
+#header{
+    width:100%;
+    margin: 50px auto;
+    font-family: 'Montserrat', sans-serif;
+}
+#header h1{
+    text-align: center;
+}
+
+.pic{
+    margin:0 auto;
+    text-align: center;
+
+}
+.pic img{
+    width:30%
+}
