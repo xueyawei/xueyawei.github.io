@@ -198,3 +198,7 @@ div.projects_img{
   width: 200px;
   margin: 30px;
 }
+
+.main-text{
+  text-align: justify;
+}
